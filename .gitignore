@@ -1,0 +1,3 @@
+# Project exclude paths
+/ch11-3-config-bus-refresh/target/
+/ch11-3-config-server-bus/target/
